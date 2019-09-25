@@ -24,6 +24,7 @@ Inspired from a few around the web with some minor tweaks here and there.
 
 ### Session
 
+| Descr    | Command  |
 | -------- | -------- |
 | start new | tmux |
 | start new (with session name) | tmux new -s SessionName |
@@ -37,6 +38,7 @@ Inspired from a few around the web with some minor tweaks here and there.
 
 In tmux hit the prefix[default `Ctrl+b` | _I use `Ctrl+a`_] followed by one of the following
 
+| Command  | Descr     |
 | -------- | --------- |
 | s | list sessions|
 | $ | name session |
